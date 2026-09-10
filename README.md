@@ -239,3 +239,6 @@ This repository serves as the official landing page for The Rogue Prince of Pers
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of The Rogue Prince of Persia today!**
+
+---
+**Last updated:** 2026-09-10 23:54:50 UTC
