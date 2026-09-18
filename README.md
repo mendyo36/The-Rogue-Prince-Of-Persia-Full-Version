@@ -241,4 +241,4 @@ This repository serves as the official landing page for The Rogue Prince of Pers
 **Get the most recent version of The Rogue Prince of Persia today!**
 
 ---
-**Last updated:** 2026-09-17 23:28:26 UTC
+**Last updated:** 2026-09-18 04:12:15 UTC
